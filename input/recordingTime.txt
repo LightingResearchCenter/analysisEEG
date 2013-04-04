@@ -1,0 +1,3 @@
+Experiment	startTime [s]	endTime [s]
+EEG-Daytime	5	155
+
